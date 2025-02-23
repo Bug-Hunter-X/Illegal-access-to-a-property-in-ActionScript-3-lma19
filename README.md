@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common ActionScript 3 error: 'Illegal access to a property'.  The error occurs when attempting to access properties of a DisplayObject after it has been removed from the display list.  The solution demonstrates how to avoid this error by checking if the object is still on the display list before accessing its properties.
